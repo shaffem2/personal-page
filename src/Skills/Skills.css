@@ -1,0 +1,85 @@
+#skills-section {
+}
+
+#skills-section-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+#skills-section-middle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+#skills-section-middle-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+#skills-section-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+#java-img {
+  height: 200px;
+  width: 320px;
+  padding-right: 15px;
+}
+
+#javascript-img {
+  height: 175px;
+  width: 175px;
+  padding-right: 15px;
+}
+
+#nodejs-img {
+  height: 200px;
+  width: 316px;
+  padding-left: 15px;
+}
+
+#cplusplus-img {
+  height: 200px;
+  width: 178px;
+  padding-right: 15px;
+}
+
+#csharp-img {
+  height: 200px;
+  width: 178px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+#c-img {
+  height: 200px;
+  width: 178px;
+  padding-left: 15px;
+}
+
+#python-img {
+  height: 200px;
+  width: 674px;
+}
+
+#spring-img {
+  height: 150px;
+  width: 583px;
+  padding-left: 15px;
+}
+
+#react-img {
+  height: 200px;
+  width: 200px;
+  padding-right: 15px;
+  padding-left: 15px;
+}

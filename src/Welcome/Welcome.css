@@ -1,0 +1,31 @@
+#welcome-section {
+  background-color: rgba(160, 160, 160, 0.897);
+  color: black;
+  margin: auto;
+  margin-bottom: 50px;
+  padding: 50px;
+  padding-bottom: 50px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px black;
+  width: 900px;
+  height: 250px;
+}
+
+#photosmile {
+  width: 250px;
+  height: 250px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px black;
+}
+
+#photosmile-left-div {
+  position: relative;
+  width: 50%;
+  float: left;
+}
+
+#welcome-text-right-div {
+  position: relative;
+  margin-left: 50%;
+  text-align: left;
+}

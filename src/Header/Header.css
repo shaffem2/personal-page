@@ -1,0 +1,10 @@
+#header-section {
+  padding: 10px;
+}
+
+#name-header {
+  color: white;
+  font-size: 100px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}

@@ -1,0 +1,29 @@
+#edu-section {
+  background-color: rgba(160, 160, 160, 0.897);
+  color: black;
+  margin: auto;
+  margin-bottom: 50px;
+  padding: 50px;
+  padding-bottom: 50px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px black;
+  width: 1000px;
+  height: 200px;
+}
+
+#suny-picture {
+  width: 300px;
+  height: 199px;
+}
+
+#edu-photo-left-div {
+  position: relative;
+  width: 50%;
+  float: left;
+}
+
+#edu-text-right-div {
+  position: relative;
+  margin-left: 50%;
+  text-align: left;
+}

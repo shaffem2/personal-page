@@ -1,0 +1,72 @@
+#resume-section {
+  padding: 20px;
+  height: 350px;
+  width: 900px;
+  margin: auto;
+}
+
+#resume-left-div {
+  position: relative;
+  width: 50%;
+  float: left;
+}
+
+#resume-right-div {
+  position: relative;
+  margin-left: 50%;
+  text-align: center;
+
+  color: white;
+  text-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+#resume-white-bubble {
+  background-color: white;
+  color: black;
+  width: 50%;
+  border-radius: 10px;
+  border-color: white;
+  border-style: solid;
+  border-width: 5px;
+  box-shadow: 0 0 15px black;
+  position: relative;
+  margin-left: 25%;
+  min-width: 300px;
+}
+
+#resume-button {
+  display: inline-block;
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  transition: 0.2s;
+}
+
+#resume-button:hover {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  opacity: 0.5;
+  transform: scale(1.2);
+}
+
+#arrow-icon {
+  padding-left: 30px;
+  font-size: 200px;
+  animation-duration: 1.7s;
+  animation-name: moving;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  position: absolute;
+}
+
+@keyframes moving {
+  from {
+    left: 5%;
+  }
+  to {
+    left: 10%;
+  }
+}
