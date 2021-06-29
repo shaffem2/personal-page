@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-page/static/css/main.a9d6c4b5.chunk.css",
+    "main.js": "/personal-page/static/js/main.9cee3fd8.chunk.js",
+    "main.js.map": "/personal-page/static/js/main.9cee3fd8.chunk.js.map",
+    "runtime-main.js": "/personal-page/static/js/runtime-main.f5b52e61.js",
+    "runtime-main.js.map": "/personal-page/static/js/runtime-main.f5b52e61.js.map",
+    "static/js/2.d80c4b7c.chunk.js": "/personal-page/static/js/2.d80c4b7c.chunk.js",
+    "static/js/2.d80c4b7c.chunk.js.map": "/personal-page/static/js/2.d80c4b7c.chunk.js.map",
+    "static/js/3.22375e98.chunk.js": "/personal-page/static/js/3.22375e98.chunk.js",
+    "static/js/3.22375e98.chunk.js.map": "/personal-page/static/js/3.22375e98.chunk.js.map",
+    "index.html": "/personal-page/index.html",
+    "static/css/main.a9d6c4b5.chunk.css.map": "/personal-page/static/css/main.a9d6c4b5.chunk.css.map",
+    "static/js/2.d80c4b7c.chunk.js.LICENSE.txt": "/personal-page/static/js/2.d80c4b7c.chunk.js.LICENSE.txt",
+    "static/media/max_shaffer_resume.b1e6b122.pdf": "/personal-page/static/media/max_shaffer_resume.b1e6b122.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5b52e61.js",
+    "static/js/2.d80c4b7c.chunk.js",
+    "static/css/main.a9d6c4b5.chunk.css",
+    "static/js/main.9cee3fd8.chunk.js"
+  ]
+}
